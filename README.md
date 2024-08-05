@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Welcome to Rakhul's Arena ⚔</h1>
+<h1 align="right">Welcome to Rakhul's Arena ⚔</h1>
 
 ###
 
