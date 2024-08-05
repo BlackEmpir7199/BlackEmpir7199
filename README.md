@@ -1,14 +1,8 @@
-<img align="left" height="175" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974"  />
+<img align="left" height="175" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974" />
 
-###
+<h1 align="left" style="margin-top: 0;">Welcome to Rakhul's Arena ⚔</h1>
 
-<h3 align="left">Welcome to Rakhul's Arena ⚔</h1>
-
-###
-
-<h4 align="left">Tech's allure gripped me early, kindled by my first keyboard click. Now, I forge digital tools to propel society forward, turning that childhood wonder into world-changing craft.</h4>
-
-###
+<h4 align="left" style="clear: both;">Tech's allure gripped me early, kindled by my first keyboard click. Now, I forge digital tools to propel society forward, turning that childhood wonder into world-changing craft.</h4>
 
 <h2 align="left">Innovation Gear 💻</h2>
 
