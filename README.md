@@ -62,9 +62,7 @@
 
 ###
 
-<h2 align="left">Philosophies✨</h2>
-
-###
+## Philosophies✨
 
 <div style="background-color: #f0f0f0; border-radius: 10px; padding: 20px; margin: 20px 0;">
   <div style="background-color: #ffffff; border-left: 5px solid #4CAF50; margin-bottom: 15px; padding: 15px; border-radius: 5px;">
@@ -82,6 +80,10 @@
     <p style="text-align: right; margin: 10px 0 0; font-style: italic; color: #666;">— John Lennon</p>
   </div>
 </div>
+
+###
+
+## Ping me on🔗
 
 <div align="left">
   <a href="https://linkedin.com/in/rakhul" target="_blank">
