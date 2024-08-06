@@ -1,4 +1,4 @@
-<img style="float:left;" height="175" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974" />
+<img align="left;" height="175" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974" />
 
 <h1 align="left" style="margin-top: 0;">Welcome to Rakhul's Arena ⚔</h1>
 
