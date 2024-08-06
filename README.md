@@ -56,6 +56,7 @@
   <img src="https://streak-stats.demolab.com?user=BlackEmpir7199&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackEmpir7199&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  /> 
 </div>
+
 ###
 
 ![](https://github-trophies.vercel.app/?username=BlackEmpir7199&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
