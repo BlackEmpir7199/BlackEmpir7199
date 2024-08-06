@@ -1,7 +1,5 @@
 <div align="center">
   <img height="175" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974" />
-  <img height="175" src="https://i.pinimg.com/originals/a1/d5/1a/a1d51a9152cc4f81637e24ef80964b45.gif" />
-  <img height="175" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974" />
 </div>
 
 <h1 align="left" style="margin-top: 0;">Welcome to Rakhul's Arena ⚔</h1>
