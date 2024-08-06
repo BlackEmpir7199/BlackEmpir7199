@@ -65,11 +65,11 @@
 ## Philosophies✨
 
 ---
-`
+
 > 🎁 **"We make a living by what we get. We make a life by what we give."** 
 >                                                                            
 > — Winston Churchill 
-`
+
 ---
 
 > 🧠 **"You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you."**
@@ -83,7 +83,6 @@
 > — John Lennon
 
 ---
-
 
 ###
 
