@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="left" style="clear: both;">Tech's allure gripped me early, kindled by my first keyboard click. Now, I forge digital tools to propel society forward, turning that childhood wonder into world-changing craft.</h4>
+<h3 align="left" style="clear: both;">Tech's allure gripped me early, kindled by my first keyboard click. Now, I forge digital tools to propel society forward, turning that childhood wonder into world-changing craft.</h3>
 
 <h2 align="left">Innovation Gear 💻</h2>
 
