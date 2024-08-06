@@ -64,22 +64,25 @@
 
 ## Philosophies✨
 
-<div style="background-color: #f0f0f0; border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <div style="background-color: #ffffff; border-left: 5px solid #4CAF50; margin-bottom: 15px; padding: 15px; border-radius: 5px;">
-    <h4 style="margin: 0; color: #333;">🎁 "We make a living by what we get. We make a life by what we give."</h4>
-    <p style="text-align: right; margin: 10px 0 0; font-style: italic; color: #666;">— Winston Churchill</p>
-  </div>
+---
 
-  <div style="background-color: #ffffff; border-left: 5px solid #2196F3; margin-bottom: 15px; padding: 15px; border-radius: 5px;">
-    <h4 style="margin: 0; color: #333;">🧠 "You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you."</h4>
-    <p style="text-align: right; margin: 10px 0 0; font-style: italic; color: #666;">— James Allen</p>
-  </div>
+> 🎁 **"We make a living by what we get. We make a life by what we give."**
+> 
+> — Winston Churchill
 
-  <div style="background-color: #ffffff; border-left: 5px solid #FFC107; padding: 15px; border-radius: 5px;">
-    <h4 style="margin: 0; color: #333;">🌠 "Life is what happens to you while you're busy making other plans."</h4>
-    <p style="text-align: right; margin: 10px 0 0; font-style: italic; color: #666;">— John Lennon</p>
-  </div>
-</div>
+---
+
+> 🧠 **"You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you."**
+> 
+> — James Allen
+
+---
+
+> 🌠 **"Life is what happens to you while you're busy making other plans."**
+> 
+> — John Lennon
+
+---
 
 ###
 
