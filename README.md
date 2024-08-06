@@ -66,9 +66,9 @@
 
 ---
 
-> 🎁 **"We make a living by what we get. We make a life by what we give."** <
-> <
-> — Winston Churchill<
+> 🎁 **"We make a living by what we get. We make a life by what we give."** 
+>                                                                            
+> — Winston Churchill 
 
 ---
 
@@ -83,6 +83,10 @@
 > — John Lennon
 
 ---
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
 
 ###
 
