@@ -2,11 +2,10 @@
   <img align="left" height="175" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974" style="margin-right: 20px;" />
   <div>
     <h1 style="margin-top: 0;">Welcome to Rakhul's Arena ⚔</h1>
-    <h4 style="font-weight: normal;">Tech's allure gripped me early, kindled by my first keyboard click. Now, I forge digital tools to propel society forward, turning that childhood wonder into world-changing craft.</h4>
+    <h3 style="font-weight: normal;">Tech's allure gripped me early, kindled by my first keyboard click. Now, I forge digital tools to propel society forward, turning that childhood wonder into world-changing craft.</h4>
   </div>
 </div>
 
-<h2 align="left">Innovation Gear 💻</h2>
 <h2 align="left">Innovation Gear 💻</h2>
 
 ###
