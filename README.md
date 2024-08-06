@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="175" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974" />
-</div>
+![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/7f938d4f-0782-43dd-b5c4-8d07fc606558)
+
 
 <h1 align="left" style="margin-top: 0;">Welcome to Rakhul's Arena ⚔</h1>
 
